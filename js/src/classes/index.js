@@ -1,0 +1,2 @@
+
+App.prototype.classes = {};
